@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "prepkit",
+  "version": "1.0.0",
+  "description": "Build portable learning kits with your own agent, then send them to PrepKit for review and practice.",
+  "author": {
+    "name": "Cazimedia LLC",
+    "url": "https://cazimedia.com"
+  },
+  "homepage": "https://app.prepkit.cazimedia.com",
+  "keywords": [
+    "learning",
+    "study",
+    "KitML",
+    "practice"
+  ]
+}
